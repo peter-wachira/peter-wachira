@@ -1,7 +1,9 @@
 ## Peter Wachira @peter-wachira
 
 [![Linkedin](https://img.shields.io/badge/peter-wachira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/peter-wachira/)](https://www.linkedin.com/in/peter-wachira/)
+[![Gitlab](https://img.shields.io/badge/Gitlab%20-blue?style=flat&logo=Gitlab&logoColor=white)](https://www.gitlab.com/peter-wachira)
 [![Gmail](https://img.shields.io/badge/-pwachira900@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:pwachira900@gmail.com)](mailto:pwachira900@gmail.com)
+[![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/peethack)
 
 
 👋 Hello! My name is Peter Wachira, a passionate software developer and a Christian. I have always had great enthusiasm for creating quality software applications and building systems that impact the lives of people.  I have a strong background in tech. Not long ago, I graduated from moringa school based in Nairobi, Kenya. I spent 8 months getting acquainted with the process of building real software applications. Currently, I have been working as a software developer for the last 18 months using android and web development languages by leveraging software-development Life, Cycle methodologies to drive positive personal/team outcomes to increase velocity and on-time delivery of projects. These experiences have significantly contributed to how I approach and solve technical problems. When not immersed in code, plus some jazzy music, you'll find me listening to a podcast, or taking nature walks. Some of the exciting projects I've worked on are https://peter-wachira.github.io/droid/ 
@@ -28,6 +30,6 @@
 - CSS
 
 
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/peter-wachira)
+[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira&show_icons=true&title_color=d128d4&icon_color=28d442&text_color=dbdae3&bg_color=162024)](https://github.com/peter-wachira)
 
 >
