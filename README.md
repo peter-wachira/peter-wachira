@@ -14,7 +14,6 @@
 - Software Developer at Wazinsure ~ August 2019 to July 2020
 
 
-
 ### 💻 Languages
 - Java
 - Kotlin
@@ -28,6 +27,11 @@
 - CSS
 
 
+### 🎉 Extras
+
+- 🌱 I’m currently learning Kotlin 🤣
+- 👯 I’m looking to collaborate with other amazing devs
+- ⚡ Fun fact: I love chillstep & jazzy beats
 
 
 [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira&show_icons=true&title_color=d128d4&icon_color=28d442&text_color=dbdae3&bg_color=162024)](https://github.com/peter-wachira)
