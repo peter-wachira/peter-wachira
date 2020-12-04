@@ -10,7 +10,7 @@
 
 ### 💼 Career
 - Developer at Proto Energy in Nairobi, Kenya ~ October 2020 to present 
-- Lead Developer & Technical Team Lead at CMAhadi Ltd in Nairobi, Kenya ~ January 2020 - present
+- Technical Team Lead at CMAhadi Ltd in Nairobi, Kenya ~ January 2020 - present
 - Software Developer at Wazinsure ~ August 2019 to July 2020
 
 
