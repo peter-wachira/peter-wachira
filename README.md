@@ -4,7 +4,7 @@
 [![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/peethack)
 
 
-👋 Hello! My name is Peter Wachira, a passionate software developer and a Christian. I have always had great enthusiasm for creating quality software applications and building systems that impact the lives of people.  I have a strong background in tech. Not long ago, I graduated from moringa school based in Nairobi, Kenya. I spent 8 months getting acquainted with the process of building real software applications. Currently, I have been working as a software developer for the last 20 months using android and web development languages by leveraging software-development Life, Cycle methodologies to drive positive personal/team outcomes to increase velocity and on-time delivery of projects. These experiences have significantly contributed to how I approach and solve technical problems. When not immersed in code, plus some chill-hop music, you'll find me listening to a podcast, or taking nature walks. Some of the exciting projects I've worked on are https://peter-wachira.github.io/droid/ 
+👋 Hello! My name is Peter Wachira, a passionate software developer and a Christian. I have always had great enthusiasm for creating quality software applications and building systems that impact the lives of people. I have been working as a software developer for the last 2 years using android and web development languages by leveraging software-development Life, Cycle methodologies to drive positive personal/team outcomes to increase velocity and on-time delivery of projects. These experiences have significantly contributed to how I approach and solve technical problems. When not immersed in code, plus some chill-hop music, you'll find me listening to a podcast, or taking nature walks. Some of the exciting projects I've worked on are https://peter-wachira.github.io/droid/ 
 
 
 
@@ -29,10 +29,7 @@
 
 ### 🎉 Extras
 
-- 🌱 I’m currently learning Kotlin 🤣
 - 👯 I’m looking to collaborate with other amazing devs
-- 🌪 Moving from Gitlab to Github
-- ⚡ Fun fact: I love chillstep & jazzy beats
 
 
 [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira&show_icons=true&title_color=d128d4&icon_color=28d442&text_color=dbdae3&bg_color=162024)](https://github.com/peter-wachira)
