@@ -4,9 +4,7 @@
 [![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/peethack)
 
 
-👋 Hello! My name is Peter Wachira, a passionate software developer and a Christian. I have always had great enthusiasm for creating quality software applications and building systems that impact the lives of people. I have been working as a software developer for the last 2 years using android and web development languages by leveraging software-development Life, Cycle methodologies to drive positive personal/team outcomes to increase velocity and on-time delivery of projects. These experiences have significantly contributed to how I approach and solve technical problems. When not immersed in code, plus some chill-hop music, you'll find me listening to a podcast, or taking nature walks. Some of the exciting projects I've worked on are https://peter-wachira.github.io/droid/ 
-
-
+👋Hello! My name is Peter Wachira, a passionate software developer and a Christian. I have always had great enthusiasm for building systems that impact the lives of people. I have been working as a software developer for the last 2 years using android and web development languages by leveraging software-development Life, Cycle methodologies to drive positive personal/team outcomes to increase velocity and on-time delivery of projects. These experiences have significantly contributed to how I approach and solve technical problems. When not immersed in code, plus some jazzy music, you'll find me listening to podcasts or taking nature walks. Some of the exciting projects I've worked on are: https://peter-wachira.github.io/droid/ lets connect.
 
 ### 💼 Career
 - Developer at Proto Energy in Nairobi, Kenya ~ October 2020 to present 
