@@ -5,7 +5,7 @@
 
 
 ### 💼 Career
-- Developer at Proto Energy in Nairobi, Kenya ~ October 2020 to present 
+- Android Engineer at Proto Energy in Nairobi, Kenya ~ October 2020 to present 
 - Scrum Master & Partner at Niletee Marketplace in Nairobi, Kenya https://www.niletee.com/shop ~ January 2020 - present
 - Software Developer at Wazinsure ~ August 2019 to July 2020
 
