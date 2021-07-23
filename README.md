@@ -3,6 +3,9 @@
 [![Gmail](https://img.shields.io/badge/-pwachira900@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:pwachira900@gmail.com)](mailto:pwachira900@gmail.com)
 [![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/peethack)
 
+# Hi, Im Peter.
+
+I currently work as an Android Developer and I maintain/develop various app that are widely used acrossed Kenya.
 
 ### 💼 Career
 - Android Engineer at Proto Energy in Nairobi, Kenya ~ October 2020 to present 
