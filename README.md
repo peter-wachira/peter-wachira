@@ -99,10 +99,16 @@ I currently work as an Android Developer and I maintain/develop various app that
 *  I love teaching others about tech & programming & collaborating with other amazing devs �
 *  I love to learn and am always watching videos or reading blogs about different tech/dev based topics to enhance my knowledge. 📚
 *  I appreciate good music. Currently learning to play the guitar 🎸
+*  Lets connect: https://peterwachira.com/
 
-Lets connect: https://peterwachira.com/
+## My Projects
 
+Check out some of my more interesting/stand-out github projects (in no particular order):
+https://peterwachira.com/
 
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira&show_icons=true&title_color=d128d4&icon_color=28d442&text_color=dbdae3&bg_color=162024)](https://github.com/peter-wachira)
+[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira)](https://github.com/laisbsc/github-readme-stats)
+
+<!-- 
+[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira&show_icons=true&title_color=d128d4&icon_color=28d442&text_color=dbdae3&bg_color=162024)](https://github.com/peter-wachira) -->
 
 >
