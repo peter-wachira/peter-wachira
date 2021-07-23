@@ -5,7 +5,13 @@
 
 # Hi, Im Peter.
 
+
 I currently work as an Android Developer and I maintain/develop various app that are widely used acrossed Kenya.
+
+
+
+
+<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
 
 ### 💼 Career
 - Android Engineer at Proto Energy in Nairobi, Kenya ~ October 2020 to present 
@@ -68,7 +74,7 @@ I currently work as an Android Developer and I maintain/develop various app that
 </tr>
  <tr>
    <td align='center'>
-        Average:
+        Familiar with:
     </td>
 </tr>
 <tr>
@@ -94,7 +100,7 @@ I currently work as an Android Developer and I maintain/develop various app that
 </table>
 
 
-### 🎉 Extras
+### 🎉 Things that make me, me
 
 *  I love teaching others about tech & programming & collaborating with other amazing devs �
 *  I love to learn and am always watching videos or reading blogs about different tech/dev based topics to enhance my knowledge. 📚
