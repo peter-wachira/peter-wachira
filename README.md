@@ -109,7 +109,7 @@ I currently work as an Android Developer and I maintain/develop various app that
 
 ## My Projects
 
-Check out some of my more interesting/stand-out github projects (in no particular order):
+Check out some of my more interesting production-level projects (in no particular order):
 https://peterwachira.com/
 
 [![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira)](https://github.com/laisbsc/github-readme-stats)
