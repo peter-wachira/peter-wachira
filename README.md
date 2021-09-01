@@ -5,6 +5,9 @@
 
 # Hi, I'm Peter.
 
+#### Welcome to my Dojo!
+
+
 
 I currently work as an Android Developer and I maintain/develop various app that are widely used acrossed Kenya.
 
