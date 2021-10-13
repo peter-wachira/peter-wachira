@@ -9,7 +9,7 @@
 
 
 
-I currently work as an Android Developer and I maintain/develop various app that are widely used acrossed Kenya.
+I currently work as an Android Developer and I maintain/develop various app that are widely used across Kenya.
 
 
 
