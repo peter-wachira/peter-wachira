@@ -17,9 +17,9 @@ I currently work as an Android Developer and I maintain/develop various app that
 <img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
 
 ### 💼 Career
-- Android Developer UpWork Remote ~ Present https://www.upwork.com/workwith/peterw29
+
 - Android Engineer at Proto Energy in Nairobi, Kenya ~ October 2020 to present 
-- Sr. Android Engineer  at Niletee Marketplace in Nairobi, Kenya https://www.niletee.com/shop ~ January 2020 - present
+- Sr. Android Engineer  at Niletee Marketplace in Nairobi, Kenya https://www.niletee.com/shop ~ January 2020 - Nov 2020
 - Software Developer at Wazinsure ~ August 2019 to July 2020
 
 
