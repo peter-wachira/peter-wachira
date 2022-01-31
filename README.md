@@ -110,7 +110,7 @@ I currently work as an Android Developer and I maintain/develop various app that
 
 *  I love teaching others about tech & programming & collaborating with other amazing devs 🤼
 *  I love to learn and am always watching videos or reading blogs about different tech/dev based topics to enhance my knowledge. 📚
-*  I appreciate good music. I play the guitar 🎸
+*  Beginner guitar play player 🎸
 *  Lets connect: https://peterwachira.com/
 
 ## My Projects
