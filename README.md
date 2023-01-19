@@ -18,7 +18,7 @@ I currently work as an Android Developer and I maintain/develop various app that
 
 ### 💼 Career
 
-- Android Consultant, UpWork https://www.upwork.com/workwith/peterw29
+- Android Consultant, UpWork [https://www.upwork.com/workwith/peterw29](https://www.upwork.com/freelancers/wachirapeter)
 - RemoteMore https://app.remotemore.com/public/VE92QUlMazlPa3dVaEZaNjRrcDU6dW5kZWZpbmVkOnRydWU=
 
 
@@ -107,7 +107,7 @@ I currently work as an Android Developer and I maintain/develop various app that
 
 *  I love teaching others about tech & programming & collaborating with other amazing devs 🤼
 *  Beginner guitar play player 🎸
-*  Lets connect: https://peterwachira.com/
+*  Lets connect: https://peterwachira.com
 
 ## My Projects
 
